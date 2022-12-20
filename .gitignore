@@ -1,0 +1,15 @@
+# Bonsai scripting files
+.vs
+bin
+obj
+Packages
+*.bin
+*.avi
+*.dll
+*.exe
+*.exe.settings
+
+*.pyc
+*.bonsai.layout
+
+data
